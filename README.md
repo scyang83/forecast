@@ -1,5 +1,5 @@
 # forecast
 Simple project based on Yahoo Weather API
 
-### list.php
-![Alt text](forecast/dist/img/list.png "list page")
+### Screenshot 1 (list.php)
+![list.php](https://raw.githubusercontent.com/scyang83/forecast/master/forecast/dist/img/list.PNG "list page")
