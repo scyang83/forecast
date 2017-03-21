@@ -1,0 +1,23 @@
+{
+    "name": "scyang/forecast",
+    "description": "Simple PHP Weather Forcast Simulation based on Yahoo Weather API",
+    "type": "project",
+    "require": {
+        "php": "^5.4",
+        "components/jquery": "^3.1.0",
+        "components/bootstrap": "^3.3.7"
+    },
+    "require-dev": {
+        "php": "^5.4",
+        "components/jquery": "^3.1.0",
+        "components/bootstrap": "^3.3.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Seungchan Yang",
+            "email": "scyang@sfu.ca"
+        }
+    ],
+    "minimum-stability": "stable"
+}
