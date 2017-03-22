@@ -28,4 +28,4 @@ hr {
 
 #weather th {border-top:none; border-bottom:1px solid #DDD}
 
-#weather .worksheet-row td {padding-left:8px;}
+#weather .worksheet-row td {padding-left:8px; border-top:none;}

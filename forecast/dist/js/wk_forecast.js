@@ -3,7 +3,7 @@ $(document).ready(function() {
 	$('body').css({'background-image': 'url("dist/img/'+$location+'.jpg")'});
 	
 	//Ajax requesting weather information of cities
-	 $.post("controllers/Weather.php", {'post':$location, 'func':'detail'}, function(data){
+	 $.post("controllers/Weather_helper.php", {'post':$location}, function(data){
 				
 			var formattedJson = $.parseJSON(data);
 			console.log(formattedJson);
